@@ -24,7 +24,7 @@ export default {
         {
             name:'Portátil Huawei ',
             description:'Matebook 13',
-            img:'../img/huawei.JPG',
+            img:'/img/huawei.JPG',
             price:'3.379.900'
         },
         {
@@ -60,7 +60,7 @@ export default {
         {
             name:'Macbook',
             description:'Air 2020',
-            img:'./img/MacBook-Pro.jpg',
+            img:'/img/makbuk.JPG',
             price:'4.394.000'
         }
     ]}}}
