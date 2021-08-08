@@ -1,8 +1,22 @@
-# hello-world
+# e-commerce
 
-> A Vue.js project
+>  Vue.js project
 
-## Build Setup
+
+## Requerido: 
+```
+vue.js
+```
+```
+bootstrap jquery popper.js
+```
+## Instalar 
+```
+npm i bootstrap jquery popper.js
+```
+
+
+## Configuración de compilación
 
 ``` bash
 # install dependencies
